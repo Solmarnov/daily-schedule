@@ -1,9 +1,11 @@
 # Work Day Scheduler
 Plan your day by saving your regular daily tasks. Easily modify each hourly block as your daily objectives and responsibilities change. 
 
+https://solmarnov.github.io/daily-schedule/
+
 # Features
 **Work Day Scheduler utilises:**
-*  Web browser local storgae
+*  Web browser local storage
 *  Moment.js 
 *  jQuery
 
