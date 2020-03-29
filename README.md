@@ -5,7 +5,7 @@ https://solmarnov.github.io/daily-schedule/
 
 # Features
 **Work Day Scheduler utilises:**
-*  Web browser local storgae
+*  Web browser local storage
 *  Moment.js 
 *  jQuery
 
